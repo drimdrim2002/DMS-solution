@@ -1,0 +1,10 @@
+{
+    "feasible": false,
+    "infeasibility": "Solution must be a list of bundle information!",
+    "bundles": null,
+    "time": 25.414138793945312,
+    "timelimit_exception": false,
+    "exception": "Model too large for size-limited license; visit https://gurobi.com/unrestricted for more information",
+    "prob_name": "STAGE3_TEST_2",
+    "prob_file": "../STAGE3_TEST_2.json"
+}
